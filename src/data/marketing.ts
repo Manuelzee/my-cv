@@ -20,7 +20,7 @@ export const marketingSkills: SkillGroup[] = [
 ];
 
 export const marketingExperience: ExperienceEntry[] = [
-  { title: "Chief Marketing Officer", company: "Prosumate", period: "September 2024 – February 2026", bullets: [
+  { title: "Sales Development Representative", company: "Prosumate", period: "September 2024 – February 2026", bullets: [
     "Planned, managed, and optimized Google Ads campaigns to drive qualified traffic and conversions.",
     "Developed conversion funnels across landing pages and campaigns, using marketing data and user behavior to improve conversion rates and ROI.",
     "Collaborated with AI and technology influencers and creators, and executed AI-assisted growth strategies for SaaS products.",
@@ -35,7 +35,7 @@ export const marketingExperience: ExperienceEntry[] = [
     "Coordinated marketing, product, creative, and sales teams around strategic content objectives and a consistent brand voice.",
     "Managed online communities and built positive relationships with followers.",
   ] },
-  { title: "Social Media Marketer", company: "Omiola Construction Company", period: "March 2022 – June 2023", bullets: [
+  { title: "Business Development Associate", company: "Omiola Construction Company", period: "March 2022 – June 2023", bullets: [
     "Conducted competitive keyword analysis for client domains and niches.",
     "Created and executed a Facebook Lead Ad campaign that generated qualified leads with a 30% conversion rate.",
     "Created content calendars aligned with brand goals and executed social media strategies.",
